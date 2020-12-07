@@ -1,1 +1,1 @@
-# 왜 
+# whitecoke's blog
