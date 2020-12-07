@@ -4,28 +4,27 @@
 # © 2017-2019 Cotes Chung
 # MIT licensed
 
-#원격 테마 설정, GitHub의 OWNER/REPOSITORY 형식으로 이루어 짐.
-remote_theme : mmistakes/minimal-mistakes
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 #--------------------------
-title: WhiteCoke's                          # the main title
+title: Chirpy                          # the main title
 
-tagline: Programming, Reading a book and so on.  # it will display as the sub-title
+tagline: A text-focused Jekyll theme.  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A minimal, portfolio, sidebar,
   bootstrap Jekyll theme with responsive web design
   and focuses on text presentation.
-# fill in the base hostname & protocol for your site, e.g., 'https://username.github.io'
-url: 'https://Whitecoke.github.io'
 
-author: Kim Hyun                  # change to your full name
+# fill in the base hostname & protocol for your site, e.g., 'https://username.github.io'
+url: ''
+
+author: your_full_name                  # change to your full name
 
 avatar: /assets/img/sample/avatar.jpg   # support internet resources
 
 github:
-  username: Whitecoke             # change to your github username
+  username: github_username             # change to your github username
 
 twitter:
   username: twitter_username            # change to your twitter username
