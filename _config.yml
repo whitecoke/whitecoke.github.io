@@ -21,7 +21,7 @@ url: 'https://whitecoke.github.io'
 
 author: Whitecoke                  # change to your full name
 
-avatar: /assets/img/sample/avatar.jpg   # support internet resources
+avatar: https://i.pinimg.com/originals/ae/4f/ef/ae4fef33ede543817f0d1f347d40da35.jpg   # support internet resources
 
 github:
   username: whitecoke             # change to your github username
