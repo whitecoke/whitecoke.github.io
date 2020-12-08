@@ -25,10 +25,12 @@ tags: [SubVersion]
 ![DiffView](/assets/img/posting/201208_merge.png)
 
 ```terminal
-- tortoise SVN - Setting - Diff Viewer Tab - Configure the program used for comparing different revisions of properties.
+tortoise SVN - Setting - Diff Viewer Tab - 
+Configure the program used for comparing different revisions of properties.
 ```
 ```terminal
-- tortoise SVN - Setting - Merge Tool Tab - Configure the program used for comparing different revisions of properties.
+tortoise SVN - Setting - Merge Tool Tab - 
+Configure the program used for comparing different revisions of properties.
 ```
 
 각각 이미지 상 해당 부분에 [경로 설정 + 옵션] 설정을 해주면 된다.
