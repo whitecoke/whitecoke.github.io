@@ -22,7 +22,7 @@ tags: [SubVersion]
 
 ## Merge
 
-![DiffView](/assets/img/posting/201208_merge.png)
+![MergeView](/assets/img/posting/201208_merge.png)
 
 ```terminal
 tortoise SVN - Setting - Diff Viewer Tab - 
