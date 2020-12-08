@@ -11,19 +11,25 @@ tags: [SubVersion]
 기본개념은 = "절대경로" 옵션 이다.
 여기서는 Beyond Compare 4 기준으로 External Tool 설정하는 방법을 설명한다.
 
-# Diff
+## Diff
 
 ![DiffView](/assets/img/posting/201208_diff.png)
  
- - tortoise SVN - Setting - Diff Viewer Tab - Configure the program used for comparing different revisions of files.
+ ```terminal
+ tortoise SVN - Setting - Diff Viewer Tab - 
+ Configure the program used for comparing different revisions of files.
+ ```
 
-# Merge
+## Merge
 
 ![DiffView](/assets/img/posting/201208_merge.png)
 
+```terminal
 - tortoise SVN - Setting - Diff Viewer Tab - Configure the program used for comparing different revisions of properties.
+```
+```terminal
 - tortoise SVN - Setting - Merge Tool Tab - Configure the program used for comparing different revisions of properties.
+```
 
 각각 이미지 상 해당 부분에 [경로 설정 + 옵션] 설정을 해주면 된다.
-
 참고로 기본 text파일이 아닌, .doc와 같은 파일은 Advanced 버튼을 클릭해서 해당 경로를 연결해줘야 한다.
