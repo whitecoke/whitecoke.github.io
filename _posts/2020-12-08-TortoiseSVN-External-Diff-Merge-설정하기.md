@@ -1,7 +1,7 @@
 ---
 title: TortoiseSVN External Diff Merge 설정
 author: Whtiecoke
-data: 2020-12-08 12:23:00 +0800
+date: 2020-12-08 12:23:00 +0000
 categories: [Blogging, Test]
 tags: [SubVersion]
 ---
